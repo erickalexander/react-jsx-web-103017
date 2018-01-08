@@ -1,4 +1,4 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { message } from './components/foo';
+export const message = "I am a component!";
